@@ -1,0 +1,5 @@
+name: myPractice
+main: com.shawckz.mypractice.Practice
+authors: [Shawckz]
+version: ${project.version}
+description: All-in-one practice plugin
